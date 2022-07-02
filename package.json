@@ -8,7 +8,7 @@
   },
   "homepage": "https://github.com/solidexpert-ltd/ngx-inline-svg",
   "bugs": {
-    "url": "https://github.com/arkon/ng-inline-svg/issues"
+    "url": "https://github.com/solidexpert-ltd/ngx-inline-svg/issues"
   },
   "files": [
     "lib_commonjs/*",
