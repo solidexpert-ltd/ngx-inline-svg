@@ -1,27 +1,7 @@
-# ng-inline-svg
-
-⚠️　**This package is deprecated and not maintained.** ⚠️
-
----
-
-[![NPM](https://nodei.co/npm/ng-inline-svg.png?compact=true)](https://nodei.co/npm/ng-inline-svg)
-
-**[Demo](https://echeung.me/ng-inline-svg)**
-
-*Formerly called [ng2-inline-svg](https://github.com/arkon/ng2-inline-svg)*
-
-Angular directive for inserting an SVG inline within an element, allowing for easily styling
-with CSS like `fill: currentColor;`.
-
-This is based on [md-icon](https://github.com/angular/material2/tree/master/src/lib/icon),
-except this is meant purely for inserting SVG files within an element, without the extra things like
-font icons.
-
-
 ## Installation
 
 ```shell
-npm install --save ng-inline-svg
+npm install --save ngx-inline-svg
 ```
 
 
