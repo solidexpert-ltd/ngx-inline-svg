@@ -1,6 +1,6 @@
 {
   "name": "@solidexpert/ngx-inline-svg",
-  "version": "13.2.1",
+  "version": "13.2.2",
   "description": "Angular directive for inserting an SVG inline within an element.",
   "repository": {
     "type": "git",
