@@ -1,7 +1,7 @@
 ## Installation
 
 ```shell
-npm install --save ngx-inline-svg
+npm install --save @solidexpert/ngx-inline-svg
 ```
 
 

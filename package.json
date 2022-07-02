@@ -4,9 +4,9 @@
   "description": "Angular directive for inserting an SVG inline within an element.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arkon/ng-inline-svg.git"
+    "url": "https://github.com/solidexpert-ltd/ngx-inline-svg.git"
   },
-  "homepage": "http://echeung.me/ng-inline-svg/",
+  "homepage": "https://github.com/solidexpert-ltd/ngx-inline-svg",
   "bugs": {
     "url": "https://github.com/arkon/ng-inline-svg/issues"
   },
