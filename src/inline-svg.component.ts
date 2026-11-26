@@ -13,6 +13,7 @@ import { InlineSVGService } from './inline-svg.service';
 
 @Component({
   selector: 'inline-svg',
+  standalone: false,
   template: '',
   changeDetection: ChangeDetectionStrategy.OnPush
 })

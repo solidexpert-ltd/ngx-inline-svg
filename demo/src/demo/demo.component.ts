@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'demo',
+  standalone: false,
   template: `
     <div class="demo-svg1" aria-label="My icon 1" [inlineSVG]="'img/image.svg'" [onSVGLoaded]="handleSVG" [removeSVGAttributes]="['xmlns']"></div>
     <div class="demo-svg2" aria-label="My icon 2" [inlineSVG]="'img/image.svg'" [replaceContents]="true" [setSVGAttributes]="_attrs">Content</div>
